@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Jackie Bechtelar",
+      "id": 1
+    },
+    {
+      "name": "Karl Marks",
+      "id": 2
+    },
+    {
+      "name": "Robyn Larkin",
+      "id": 3
+    },
+    {
+      "name": "Levi Zemlak",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Fantastic Soft Chips",
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "title": "Generic Granite Mouse",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Wooden Bike",
+      "id": 14
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7396932418797568",
+      "id": 2
+    },
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7866835957448704",
+      "id": 3
+    }
+  ]
+}
